@@ -2,6 +2,9 @@
 
 Noise Notice is the industry leader of noise detection software/hardware. 
 
+&nbsp;
+&nbsp;
+
 ## Authors
 [Ethan Harlig](https://github.com/ethanharlig)
 [Jake Pickett](https://github.com/jakep11)
